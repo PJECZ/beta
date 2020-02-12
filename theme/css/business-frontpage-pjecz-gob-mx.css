@@ -29,7 +29,7 @@ blockquote { font-family: 'EB Garamond', serif; padding: 1.2em; font-size: 1.2em
 }
 .pjecz-header-lustitia {
 	background-color: #3f2e32;
-	background-image: url('/theme/images/lustitia-background-1024x768.jpg');
+	background-image: url('../images/lustitia-background-1024x768.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	min-height: 280px;
