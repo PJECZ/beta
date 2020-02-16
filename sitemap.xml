@@ -5,13 +5,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://pjecz.github.io/beta/</loc>
-<lastmod>2020-02-14T15:34:21-00:00</lastmod>
+<lastmod>2020-02-15T20:40:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/convocatorias/2018-02-23/</loc>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/convocatorias/2018-02-23/</loc>
 <lastmod>2020-02-13T11:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
@@ -39,8 +39,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/atribuciones/</loc>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/atribuciones/</loc>
 <lastmod>2020-02-13T11:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/atribuciones/</loc>
+<lastmod>2020-02-15T14:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -67,7 +74,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/convocatorias/</loc>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/convocatorias/</loc>
 <lastmod>2020-02-13T11:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
@@ -76,6 +83,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/derechos-humanos/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/directorio/</loc>
+<lastmod>2020-02-15T15:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/directorio/</loc>
+<lastmod>2020-02-14T10:12:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -116,13 +137,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/directorio/</loc>
-<lastmod>2020-02-11T10:00:00-06:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>1</priority>
-</url>
-
-<url>
 <loc>https://pjecz.github.io/beta/transparencia/articulo-21/fraccion-01-estructura-organica/</loc>
 <lastmod>2020-02-10T08:34:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -151,15 +165,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/organigrama/</loc>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/organigrama/</loc>
 <lastmod>2020-02-13T11:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/organigrama/</loc>
+<lastmod>2020-02-15T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/organigrama/</loc>
-<lastmod>2020-02-11T10:00:00-06:00</lastmod>
+<lastmod>2020-02-14T10:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -207,7 +228,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/</loc>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/</loc>
 <lastmod>2020-02-11T10:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
@@ -221,8 +242,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/presidencia/</loc>
+<lastmod>2020-02-15T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/</loc>
 <lastmod>2020-02-11T09:10:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/registro-titulos/</loc>
+<lastmod>2020-02-14T10:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -237,6 +272,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/secretaria-tecnica-transparencia/reglamento-interior/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/</loc>
+<lastmod>2020-02-15T14:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
