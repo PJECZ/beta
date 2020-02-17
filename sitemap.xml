@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://pjecz.github.io/beta/</loc>
-<lastmod>2020-02-17T14:49:30-00:00</lastmod>
+<lastmod>2020-02-17T17:03:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/transparencia/articulo-21/</loc>
 <lastmod>2020-02-10T08:32:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/atribuciones/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -88,6 +95,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/consejeros/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/</loc>
+<lastmod>2020-02-17T15:20:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/convocatorias/</loc>
 <lastmod>2020-02-13T11:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -97,6 +118,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/derechos-humanos/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/secretaria-acuerdos/directorio/</loc>
+<lastmod>2020-02-15T15:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -172,6 +200,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/marco-juridico/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/mensajes-ponencias/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -188,6 +223,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/derechos-humanos/normatividad/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/secretaria-acuerdos/organigrama/</loc>
+<lastmod>2020-02-17T15:20:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -284,6 +326,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/presentacion-quejas/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/presidencia/</loc>
 <lastmod>2020-02-15T14:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -307,6 +356,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/</loc>
 <lastmod>2020-02-11T09:10:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/proceso-seleccion-jueces/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -349,6 +405,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/</loc>
 <lastmod>2020-02-17T09:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/sanciones/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/consejo-judicatura/secretaria-acuerdos/</loc>
+<lastmod>2020-02-17T16:20:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
