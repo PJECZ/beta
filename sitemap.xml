@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://pjecz.github.io/beta/</loc>
-<lastmod>2020-02-15T20:40:29-00:00</lastmod>
+<lastmod>2020-02-17T09:30:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,6 +53,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/atribuciones/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/atribuciones/</loc>
+<lastmod>2020-02-17T09:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/atribuciones/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -90,6 +104,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-civil-familiar/directorio/</loc>
 <lastmod>2020-02-15T15:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/directorio/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/directorio/</loc>
+<lastmod>2020-02-17T09:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -179,6 +207,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/organigrama/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/organigrama/</loc>
+<lastmod>2020-02-17T09:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/organigrama/</loc>
 <lastmod>2020-02-14T10:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -249,6 +291,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/presidencia/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/presidencia/</loc>
+<lastmod>2020-02-17T09:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/</loc>
 <lastmod>2020-02-11T09:10:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -284,6 +340,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-regional-torreon/</loc>
+<lastmod>2020-02-17T09:00:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
 <loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/secretaria-general-acuerdos-pleno/</loc>
 <lastmod>2020-02-11T10:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -293,6 +363,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://pjecz.github.io/beta/poder-judicial/presidencia/secretaria-tecnica-transparencia/</loc>
 <lastmod>2020-02-11T10:12:00-06:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+<loc>https://pjecz.github.io/beta/poder-judicial/organos-jurisdiccionales/sala-colegiada-penal/sentencias/</loc>
+<lastmod>2020-02-16T14:00:00-06:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
