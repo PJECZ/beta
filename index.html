@@ -7,6 +7,29 @@
     <meta name="description" content="Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza">
     <meta name="keywords" content="">
     <meta name="author" content="PJECZ">
+    <!-- Facebook open graph configuration -->
+    <meta property="og:title" content="Poder Judicial del Estado de Coahuila de Zaragoza">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://pjecz.github.io/beta/index.html">
+    <meta property="og:description" content="Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza">
+    <meta property="og:site_name" content="Poder Judicial del Estado de Coahuila de Zaragoza">
+    <meta property="og:image" content="theme/images/pjecz.png">
+    <!-- Twitter card configuration -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@PJCoah">
+    <meta name="twitter:title" content="Poder Judicial del Estado de Coahuila de Zaragoza">
+    <meta name="twitter:description" content="Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza">
+    <meta name="twitter:image" content="theme/images/pjecz.png">
+    <!-- schema.org metadata -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://pjecz.github.io/beta",
+        "name": "Poder Judicial del Estado de Coahuila de Zaragoza",
+        "description": "Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza"
+    }
+    </script>
     <title>Poder Judicial del Estado de Coahuila de Zaragoza</title>
     <link rel="shortcut icon" type="image/x-icon" href="https://pjecz.github.io/beta/favicon.ico">
     <link rel="icon" href="https://pjecz.github.io/beta/theme/images/icon-hires.png" sizes="192x192">
@@ -59,12 +82,6 @@
                     <li>
                         <a class="nav-link" href="https://www.facebook.com/pjcoah/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
                     </li>
-                    <li>
-                        <a class="nav-link" href="https://vimeo.com/user103229504" target="_blank"><i class="fa fa-vimeo-square fa-2x" aria-hidden="true"></i></a>
-                    </li>
-                    <li>
-                        <a class="nav-link" href="https://www.youtube.com/channel/UCJ7eJJ-uE-J3yoreEDqLvHg" target="_blank"><i class="fa fa-youtube-square fa-2x" aria-hidden="true"></i></a>
-                    </li>
                 </ul>
             </div>
         </div>
@@ -73,8 +90,31 @@
 	<main>
         <!-- Inicial Cabecera -->
         <section id="cabecera">
-            <div class="container pt-4 pb-2">
-                <img class="img-fluid" data-src="holder.js/100px400">
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active" data-interval="4000">
+                        <img class="d-block w-100" data-src="holder.js/100px400">
+                    </div>
+                    <div class="carousel-item" data-interval="4000">
+                        <img class="d-block w-100" data-src="holder.js/100px400">
+                    </div>
+                    <div class="carousel-item" data-interval="4000">
+                        <img class="d-block w-100" data-src="holder.js/100px400">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </section>
         <!-- Inicial Destacados -->
